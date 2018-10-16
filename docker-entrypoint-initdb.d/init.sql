@@ -1,0 +1,2 @@
+CREATE DATABASE students;
+GRANT ALL PRIVILEGES ON DATABASE students TO postgres;
